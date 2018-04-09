@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">计算器</string>
+    <string name="input_text">输入表达式</string>
+    <string name="output_text">输出结果</string>
+</resources>
